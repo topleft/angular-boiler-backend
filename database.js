@@ -14,4 +14,4 @@ var Item = mongoose.model('Item', itemSchema);
 
 module.exports = Item;
 
-mongoose.connect('mongodb://localhost/item-database');
+mongoose.connect('mongodb://localhost/boiler-database');

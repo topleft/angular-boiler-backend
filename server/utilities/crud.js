@@ -1,4 +1,4 @@
-var Item = require("../database.js");
+var Item = require("../../database.js");
 
 
 module.exports = {
